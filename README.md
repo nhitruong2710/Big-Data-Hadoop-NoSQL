@@ -68,11 +68,3 @@ Big-Data-Hadoop-NoSQL
 The complete report is available in:
 
 `report/REPORTCSDL.pdf`
-
-## Authors
-
-Truong Thi Yen Nhi and Team
-
-Faculty of Mathematics, Mechanics and Informatics
-
-VNU University of Science
